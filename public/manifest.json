@@ -1,0 +1,17 @@
+{
+  "id": "/",
+  "name": "Mi Sistema",
+  "short_name": "Mi Sistema",
+  "description": "Aplicación de gestión de la Universidad Tecnológica de Aguascalientes",
+  "lang": "es",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#208AEF",
+  "theme_color": "#208AEF",
+  "icons": [
+    { "src": "/images/icon-192-new.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/images/icon-512-new.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
